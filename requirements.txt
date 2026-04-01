@@ -5,3 +5,4 @@ numpy==1.26.4
 transformers==4.48.3
 Pillow==10.2.0
 gTTS==2.5.4
+requests
